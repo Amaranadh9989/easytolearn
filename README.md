@@ -53,7 +53,7 @@ This is a web based application developed for education related telugu based web
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
+- Html
 - CSS
 - Bootstrap
 - JavaScript
